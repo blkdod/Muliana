@@ -1,0 +1,6 @@
+{
+  "name": "Muliana Shoes",
+  "description": "Toko Muliana Shoes Cabang Lampu Merah Sunu — katalog sepatu Nike, Adidas, Puma, New Balance, Converse, dan Vans ukuran 34 sampai 45 dengan pembayaran QRIS, pelacakan pesanan hingga paket tiba, dan layanan chat WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
